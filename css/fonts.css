@@ -1,0 +1,33 @@
+/* font-family: "MullerHeavy" */
+@font-face{ 
+	font-family: "MullerHeavy";
+	src: url("../fonts/MullerHeavy/MullerHeavy.eot");
+	src: url("../fonts/MullerHeavy/MullerHeavy.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MullerHeavy/MullerHeavy.woff") format("woff"),
+	url("../fonts/MullerHeavy/MullerHeavy.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MullerHeavy" */
+@font-face{ 
+	font-family: "MullerThin";
+	src: url("../fonts/MullerThin/MullerThin.eot");
+	src: url("../fonts/MullerThin/MullerThin.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MullerThin/MullerThin.woff") format("woff"),
+	url("../fonts/MullerThin/MullerThin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "MullerRegular" */
+@font-face{ 
+	font-family: "MullerRegular";
+	src: url("../fonts/MullerRegular/MullerRegular.eot");
+	src: url("../fonts/MullerRegular/MullerRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MullerRegular/MullerRegular.woff") format("woff"),
+	url("../fonts/MullerRegular/MullerRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
